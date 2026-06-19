@@ -103,8 +103,11 @@ Business Questions Answered
 📊 Dashboard Features
 
 Revenue KPIs  : Total Revenue, Net Revenue, AOV
+
 Customer KPIs : Total Orders, Return Orders, Return Rate
+
 Trend Analysis: Monthly Revenue Trend
+
 Breakdowns    : Category, Subcategory, Location, Device
 
 📊 Key Insights
